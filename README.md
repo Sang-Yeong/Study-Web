@@ -7,10 +7,10 @@
 # 코딩과 HTML
 > |원인|결과|
 > |-|-|
-|code|application|
-|source|program|
-|language|webpage|
-||website|
+> |code|application|
+> |source|program|
+> |language|webpage|
+> ||website|
 
 > HTML(Hyper Text Markup Language)
 - 쉽다.
